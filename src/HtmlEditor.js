@@ -41,22 +41,19 @@ function HtmlEditor() {
         }));
 
         setDefaultSamples(samples);
-        setCode(samples[0].content);
+        if (samples.length > 0) {
+          setCode(samples[0].content);
+          const element = document.getElementsByClassName("CodeMirror-scroll");
+          element[0].style.display = "none";
+          element[0].parentNode.style.height = "0px";
+        }
       } catch (error) {
         console.error("Error fetching samples:", error);
       }
     };
 
     fetchSamples();
-    setTimeout(() => {
-      setCode(defaultSamples[0]?.content || "");
-      document.getElementById("sample-selector").options[0].selected = true;
-      const element = document.getElementsByClassName("CodeMirror-scroll");
-      element[0].style.display = "none";
-      element[0].style.height = "0px";
-      element[0].parentNode.style.height = "0px";
-    }, 1000);
-  }, []);
+  }, []); // Empty dependency array to run only on mount
 
   return (
     <div>
