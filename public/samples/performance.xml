@@ -1,0 +1,68 @@
+<div class="appDetailContent"><div><h2 class="shortDescription appsource-css-527"><div>Build interactive process, hierarchy and network diagrams in Power BI with alert-driven KPIs</div></h2><div class="description"><div>
+      <p>Build Power BI reports with interactive process org charts, process diagrams, and hierarchies without writing any code using <a href="https://xviz.com/visuals/performance-flow">xViz Performance Flow.</a></p>
+      <b>Use cases supported:</b>
+      <ul>
+        <li><b>Organization charts</b>: Deliver org charts with integrated alerts and KPIs. Supports profile photo, name, title &amp; designation details for stakeholders</li>
+      </ul>
+      <ul>
+        <li><b>Supply chain performance</b>: Graphically visualize supply chain performance across plants, warehouses, distribution centers, and retail outlets</li>
+      </ul>
+      <ul>
+        <li><b>Network Diagrams</b>: Track the performance of a combination of business units, costs centers, departments, products, and locations in a single visual</li>
+      </ul>
+      <ul>
+        <li><b>Sales &amp; financial performance</b>: Visualize sales/financial performance across regions, departments, products, customer segments and sales reps</li>
+      </ul>
+      <ul>
+        <li><b>Process diagrams with custom swim Lanes</b>: Visualize business processes and flows using custom swim lanes and connectors</li>
+      </ul>
+      And many more
+      <p><strong>Key Feature Highlights:</strong></p>
+      <ul><li><strong>Use images and icons</strong> for better visualization</li></ul>
+      <ul><li><strong>Integrated alerts and KPIs</strong> for highlighting performance against benchmarks</li></ul>
+      <ul><li><strong>Custom connectors </strong> – Draw and highlight connections and dependencies using custom connectors and swim lanes</li></ul>
+      <ul><li><strong>Tell stories using notes</strong> – Offer additional textual context through annotations, elevating the narrative and insights</li></ul>
+      <ul><li><strong>Highlight shapes</strong> – Highlight shape borders, backgrounds, and font colors to bring attention to outliers, top performers, and bottom performers</li></ul>
+      <ul>
+        <li>
+          <strong>Deliver interactive diagrams</strong>
+          <ul>
+            <li>Expand/Collapse levels and Navigate effortlessly</li>
+            <li>Dynamic filtering based on observations / KPIs</li>
+            <li>Quick Search to easily locate nodes in diagrams with a large number of nodes</li>
+            <li>Zoom in/out to focus on specific areas</li>
+            <li>Mini map: Easily locate your current position within a large canvas using a mini-map</li>
+            <li>Subtree analysis: Focus on specific subtrees with selected root nodes</li>
+            <li>Detailed view: Dive deeper with comprehensive node information</li>
+          </ul>
+        </li>
+      </ul>
+      <ul>
+        <li><strong>Custom Tabs for end-users</strong> – Create subtrees for rapid analysis and pin those as tab pages in the visual</li>
+      </ul>
+      <ul>
+        <li><strong>Child Count Analysis</strong> – Customize node display in collapsed state with options to show count of immediate members or full branch including descendants</li>
+      </ul>
+      <ul>
+        <li><strong>Predefined Templates </strong> – Select from a variety of node styles to match your preferred aesthetics and enhance visual consistency</li>
+      </ul>
+      <ul>
+        <li><strong>Data structure support</strong> – Support multiple data formats including those using Id/Parent Id columns or Multi-level column structure (one hierarchy level in each column)</li>
+      </ul>
+      <ul>
+        <li><strong>Rich Configurations</strong> – Modern, intuitive and user-friendly toolbar with abundant configurations</li>
+      </ul>
+      <p><strong>Why choose xViz visuals?</strong></p>
+      <ul>
+        <li><p>Trusted by 3,000+ customers, including most Fortune 500 companies</p></li>
+        <li><p>Over 2M+ downloads across 40+ countries</p></li>
+        <li><p><a target="_blank" href="https://lumel.com/">Lumel</a>, as the organization, is the #1 Power BI Visuals ecosystem leader with 20+ visuals (with Inforiver and ValQ) spanning all use cases making us the one-stop shop for all your Power BI use cases for features/functionality gaps unmet by native Power BI.</p></li>
+      </ul>
+      <hr>
+      <p><strong>Licensing</strong>- The visual is free for use on the Power BI desktop. License purchases are required for use on the Power BI online service/Report Server/Embedding. Details are available here - <a target="_blank" href="https://xviz.com/pricing/?visual=performance-flow"> xViz Pricing &amp; Purchases</a>.
+      </p><p><strong>To know more</strong> about how the visual can empower your reporting in Power BI
+        </p><ul>
+          <li>Explore the full potential of the visual on <a target="_blank" href="https://xviz.com/visuals/performance-flow/">xViz website</a></li>
+          <li>Have any feature requests or queries about the visual? - Reach us at <a target="_blank" href="https://community.xviz.com/">xViz Community</a></li>
+        </ul>
+    </div></div></div><div class="capabilities"><h3 class="c-heading-6 capabilitiesTitle">Visual capabilities</h3><div class="disclaimer"><div>This visual is certified by Power BI</div><div><a href="https://aka.ms/power-bi-custom-visuals-certified" class="c-hyperlink" tabindex="0"><span>Learn more about certified Power BI visuals.</span></a></div></div></div></div>

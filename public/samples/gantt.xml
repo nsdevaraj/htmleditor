@@ -1,0 +1,78 @@
+<div class="appDetailContent"><div><h2 class="shortDescription appsource-css-527"><div>Project management chart to monitor timeline, tasks, roadmaps, milestones, dependencies, resources!</div></h2><div class="description"><div>
+      <p>Visualize enterprise project data with ease! Use advanced enterprise level capabilities to show how project breaks down into tasks, subtasks, and track project milestones and more. </p>
+      <p><a href="https://xviz.com/visuals/gantt-chart/">xViz Gantt Chart</a> is a modern project planning tool for Power BI which helps to articulate, communicate, and monitor the progress of projects. Business users leverage the unique enterprise features such as alerting, milestone configuration, task dependencies, creating connector lines, and live editing on the fly to empower project reporting in their organization with Power BI. </p>
+      <p><strong>Key Feature Highlights:</strong></p>
+      <ul><li><strong>2 Modes</strong> - Regular Gantt for project management and Gantt Resource for tailored view of resource planning, allocation, and review.</li></ul>
+      <ul><li><strong>Display Connector Lines</strong> - Define customizable connector lines to visualize dependencies</li></ul>
+      <ul><li>
+          <strong>Advanced Alerting techniques - </strong>
+          <ul>
+            <li>Data Grid: Conditionally formatted data grids to draw attention to priority tasks </li>
+            <li>Status Flag: Add customized status flag to determine the status of the task </li>
+            <li>Progress Bar: Color code the bar to notify the task progress and to drive attention </li>
+          </ul>
+      </li></ul>
+      <ul>
+        <li>
+          <strong>Milestone Configuration </strong>- Specify important points along the progress of task in Gantt using milestones with customizable icon shape/color <p></p>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Advanced Analytics </strong>- Display reference lines, reference bands highlighting key project metrics in the visual
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Bullet/ Bar View </strong>- Progress Bars can be toggled between bullet and bar views for advanced insights
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Expand/Collapse </strong>- Quickly expand/ collapse hierarchy data with a single click
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Runtime Zoom </strong>- Interactive zoom in and out of timeline view, customize default zoom range
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Extra Columns </strong>- Add multiple categories and columns, format visual title, and customize column width
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Embed External URL </strong>- single click action navigation to external webpages from your dashboards/ reports
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Fiscal Year Support </strong>- customize your timeline based on your company's fiscal year
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Ragged Hierarchy </strong>- View unbalanced hierarchy with ease by hiding blank categories
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <strong>Live Editing </strong>- Adjust timelines with ease on the fly as project deliverables are met between tasks and visualize task dependencie
+        </li>
+      </ul>
+      <ul><li><strong>Summary Table </strong>- gain a tabular overview to slice and filter your data</li></ul>
+     <p><strong>Why choose xViz visuals?</strong></p><ul>
+       <li><p>Trusted by 3000+ customers, including most Fortune 500 companies</p></li>
+       <li><p>Over 2M+ downloads across 40+ countries</p></li>
+       <li><p>Lumel, as the organization, is the #1 Power BI Visuals ecosystem leader with 20+ visuals (with Inforiver and ValQ) spanning all use cases making us the one-stop shop for all your Power BI use cases for features/functionality gaps unmet by native Power BI. </p></li>
+      </ul>
+       <hr>
+      <p><strong>Licensing</strong>- The visual is free for use on the Power BI desktop. License purchases are required for use on the Power BI online service/Report Server/Embedding. Details are available here - <a target="_blank" href="https://xviz.com/pricing/?visual=gantt-enterprise"> xViz Pricing &amp; Purchases</a>.
+      </p><p><strong>To know more</strong> about how the visual can empower your reporting in Power BI
+        </p><ul>
+          <li>Explore the full potential of the visual on <a target="_blank" href="https://xviz.com/visuals/gantt-chart/">xViz website</a></li>
+          <li>Have any feature requests or queries about the visual? - Reach us at <a target="_blank" href="https://community.xviz.com/">xViz Community</a></li>
+        </ul>
+    </div></div></div><div class="capabilities"><h3 class="c-heading-6 capabilitiesTitle">Visual capabilities</h3><div class="disclaimer"><div>This visual is certified by Power BI</div><div><a href="https://aka.ms/power-bi-custom-visuals-certified" class="c-hyperlink" tabindex="0"><span>Learn more about certified Power BI visuals.</span></a></div></div></div></div>

@@ -12,6 +12,10 @@ function HtmlEditor() {
       try {
         const files = [
           { path: "./samples/sample.xml", name: "Sample HTML" },
+          { path: "./samples/editable.xml", name: "Editable" },
+          { path: "./samples/analytics.xml", name: "Analytics+" },
+          { path: "./samples/performance.xml", name: "Performance Flow" },
+          { path: "./samples/gantt.xml", name: "Gantt" },
           { path: "./samples/valq.xml", name: "Valq" },
           {
             path: "./samples/reportingmatrix.xml",
