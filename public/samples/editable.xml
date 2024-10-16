@@ -1,113 +1,112 @@
-<div class="appDetailContent"><div><h2 class="shortDescription appsource-css-527"><div>Reference data / Master data / Meta data table editor with approval workflow, audit &amp; governance</div></h2><div class="description">
-    <p>
-      <a href="https://inforiver.com/editable/">EDITable</a> provides a
-      self-service platform that helps you manage reference data for your
-      reporting &amp; planning applications in Power BI. It complements your Master
-      Data Management (MDM) solution and offers a lightweight alternative for
-      business users that supports both reference data (such as customer,
-      region, and product master) and flat tables (such as price list,
-      contracts, projects, and discounts).
-    </p>
+<p>
+  <a href="https://inforiver.com/editable/">EDITable</a> provides a
+  self-service platform that helps you manage reference data for your
+  reporting &amp; planning applications in Power BI. It complements your Master
+  Data Management (MDM) solution and offers a lightweight alternative for
+  business users that supports both reference data (such as customer,
+  region, and product master) and flat tables (such as price list,
+  contracts, projects, and discounts).
+</p>
 
-    <h2>Highlights</h2>
-    <ul>
-      <li>Edit dimensions &amp; measures in flat tables</li>
-      <li>
-        Designed for business users; requires minimal help and setup from IT
-      </li>
-      <li>Migrate your first Excel table to EDITable in three (3) minutes</li>
-      <li>
-        Supports LIVE sync with data residing in Azure SQL, Databricks,
-        Snowflake, Microsoft Fabric, RedShift, and Postgres
-      </li>
-    </ul>
+<h2>Highlights</h2>
+<ul>
+  <li>Edit dimensions &amp; measures in flat tables</li>
+  <li>
+    Designed for business users; requires minimal help and setup from IT
+  </li>
+  <li>Migrate your first Excel table to EDITable in three (3) minutes</li>
+  <li>
+    Supports LIVE sync with data residing in Azure SQL, Databricks,
+    Snowflake, Microsoft Fabric, RedShift, and Postgres
+  </li>
+</ul>
 
-    <h2>Features</h2>
-    <ul>
-      <li>Bulk Insert/Edit values</li>
-      <li>
-        Custom approval workflows (table-level, dimension-level, and
-        value-based)
-      </li>
-      <li>Supports Slowly Changing Dimensions (SCD) Type II</li>
-      <li>Change log for enabling audit</li>
-      <li>Conditional formatting</li>
-      <li>Commenting &amp; collaboration</li>
-      <li>Data integration with webhooks</li>
-      <li>Granular user activity permissions (add/delete/edit rows)</li>
-      <li>Columnar permissions (ACL)</li>
-    </ul>
+<h2>Features</h2>
+<ul>
+  <li>Bulk Insert/Edit values</li>
+  <li>
+    Custom approval workflows (table-level, dimension-level, and
+    value-based)
+  </li>
+  <li>Supports Slowly Changing Dimensions (SCD) Type II</li>
+  <li>Change log for enabling audit</li>
+  <li>Conditional formatting</li>
+  <li>Commenting &amp; collaboration</li>
+  <li>Data integration with webhooks</li>
+  <li>Granular user activity permissions (add/delete/edit rows)</li>
+  <li>Columnar permissions (ACL)</li>
+</ul>
 
-    <h2>Power Your Planning Applications Using EDITable</h2>
-    <p>
-      EDITable ensures that you have full control over master data supporting
-      your planning applications. Be it products, regions, accounts, cost
-      centers, customers, employees, or salaries - you can maintain everything
-      with ease to ensure the integrity of your plans and forecasts.
-    </p>
-    <p>
-      EDITable makes it much easier to incorporate forward-looking master data
-      that is needed for planning, especially master data that is not yet
-      created in your transaction systems or data warehouses.
-    </p>
+<h2>Power Your Planning Applications Using EDITable</h2>
+<p>
+  EDITable ensures that you have full control over master data supporting
+  your planning applications. Be it products, regions, accounts, cost
+  centers, customers, employees, or salaries - you can maintain everything
+  with ease to ensure the integrity of your plans and forecasts.
+</p>
+<p>
+  EDITable makes it much easier to incorporate forward-looking master data
+  that is needed for planning, especially master data that is not yet
+  created in your transaction systems or data warehouses.
+</p>
 
-    <h2>EDITable vs. Other Matrix Visuals with Writeback</h2>
-    <p>
-      Discover how EDITable is different from other matrix visuals with
-      writeback capabilities:
-    </p>
-    <ul>
-      <li>
-        <strong>Data Store:</strong> A matrix visual typically consumes data
-        from Table A, and writes back data to Table B. With EDITable, the source
-        &amp; destination tables are (must be) the same as you are working on
-        reference data (which can used by multiple other applications).
-      </li>
-      <li>
-        <strong>Connectivity:</strong> A matrix visual typically supports both
-        Import and DirectQuery modes. EDITable can only consume DirectQuery
-        (Live) connections.
-      </li>
-      <li>
-        <strong>Data Type:</strong> A matrix visual typically allows you to
-        update measures; EDITable can be used to update both dimensions &amp;
-        measures.
-      </li>
-      <li>
-        <strong>Sample Use Cases:</strong> Matrix products are best suited for
-        planning and forecasting applications; EDITable works well for
-        maintaining reference data and flat tables such as price lists, vendor
-        lists, etc.
-      </li>
-      <li>
-        <strong>Structure:</strong> Matrix products work well with hierarchical
-        data; EDITable exclusively supports flat (non-hierarchical) tables, and
-        offers support for slowly changing dimensions (SCD Type II).
-      </li>
-    </ul>
+<h2>EDITable vs. Other Matrix Visuals with Writeback</h2>
+<p>
+  Discover how EDITable is different from other matrix visuals with
+  writeback capabilities:
+</p>
+<ul>
+  <li>
+    <strong>Data Store:</strong> A matrix visual typically consumes data
+    from Table A, and writes back data to Table B. With EDITable, the source
+    &amp; destination tables are (must be) the same as you are working on
+    reference data (which can used by multiple other applications).
+  </li>
+  <li>
+    <strong>Connectivity:</strong> A matrix visual typically supports both
+    Import and DirectQuery modes. EDITable can only consume DirectQuery
+    (Live) connections.
+  </li>
+  <li>
+    <strong>Data Type:</strong> A matrix visual typically allows you to
+    update measures; EDITable can be used to update both dimensions &amp;
+    measures.
+  </li>
+  <li>
+    <strong>Sample Use Cases:</strong> Matrix products are best suited for
+    planning and forecasting applications; EDITable works well for
+    maintaining reference data and flat tables such as price lists, vendor
+    lists, etc.
+  </li>
+  <li>
+    <strong>Structure:</strong> Matrix products work well with hierarchical
+    data; EDITable exclusively supports flat (non-hierarchical) tables, and
+    offers support for slowly changing dimensions (SCD Type II).
+  </li>
+</ul>
 
-    <h2>Learn More</h2>
-    <ul>
-      <li>
-        Visit our <a href="https://inforiver.com/editable/">website</a> to learn
-        more.
-      </li>
-      <li>
-        Join our upcoming
-        <a href="https://www.inforiver.com/webinars">webinars</a> / replay past
-        webinars.
-      </li>
-      <li>
-        Follow us on
-        <a href="https://www.linkedin.com/company/editable">LinkedIn</a> and
-        <a href="https://youtube.com/@inforiverbi">YouTube</a>.
-      </li>
-      <li>
-        Post technical questions and interact with other users in the Inforiver
-        community.
-      </li>
-      <li>
-        <a href="https://editable.io/contact-us">Schedule a demo</a> with our
-        sales team.
-      </li>
-    </ul></div></div><div class="capabilities"><h3 class="c-heading-6 capabilitiesTitle">Visual capabilities</h3><div class="disclaimer"><div>When this visual is used, it</div></div><ul class="capabilitiesList"><li class="capabilitiesListItem">Can access external services or resources</li></ul></div></div>
+<h2>Learn More</h2>
+<ul>
+  <li>
+    Visit our <a href="https://inforiver.com/editable/">website</a> to learn
+    more.
+  </li>
+  <li>
+    Join our upcoming
+    <a href="https://www.inforiver.com/webinars">webinars</a> / replay past
+    webinars.
+  </li>
+  <li>
+    Follow us on
+    <a href="https://www.linkedin.com/company/editable">LinkedIn</a> and
+    <a href="https://youtube.com/@inforiverbi">YouTube</a>.
+  </li>
+  <li>
+    Post technical questions and interact with other users in the Inforiver
+    community.
+  </li>
+  <li>
+    <a href="https://editable.io/contact-us">Schedule a demo</a> with our
+    sales team.
+  </li>
+</ul></div></div><div class="capabilities"><h3 class="c-heading-6 capabilitiesTitle">Visual capabilities</h3><div class="disclaimer"><div>When this visual is used, it</div></div><ul class="capabilitiesList"><li class="capabilitiesListItem">Can access external services or resources</li></ul></div></div>

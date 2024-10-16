@@ -1,132 +1,131 @@
-<div class="appDetailContent"><div><h2 class="shortDescription appsource-css-527"><div>ValQ for planning, budgeting, forecasting, what-if simulations, scenario analysis and reporting</div></h2><div class="description"><div>
-  <p>
-    Introducing ValQ, the modern no-code planning solution that is very
-    intuitive, interactive and for instant strategic decision making. It
-    integrates seamlessly with Microsoft Power BI. ValQ has been architected and
-    modernized to Unlock wide range of your planning and forecasting use cases
-    with ValQ's innovative visual no-code business modelling user experience.
-  </p>
-  <ul>
-    <li>
-      Independent and Serverless: ValQ operates without the need for databases,
-      servers, or IT support, offering a hassle-free experience.
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Analyst-Centric Design: No coding or scripting skills are required to
-      build models in ValQ
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Scalable Templates: Easily scale your model using templates while keeping
-      it dynamic
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Mathematical Formulae &amp; Functions: Leverage a library of spreadsheet-like
-      mathematical formulae and functions to build complex planning models.
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Simple Model Management: Live data preview, error validation, bulk editing
-      capabilities, advanced search, and filtering for smooth model management.
-    </li>
-  </ul>
-  <ul>
-    <li>Notes: Perform cell-level and node-level notes.</li>
-  </ul>
-  <ul>
-    <li>
-      Reporting: Generate reports in various styles with charts and export them
-      to Excel/PDF.
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Generate reports of different styles with charts and export to excel/pdf
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Presentations: Interactive Presentation Mode: Present your finalized
-      decisions to management with an interactive presentation mode that
-      delivers a seamless experience
-    </li>
-  </ul>
-  <p><strong>Simulations &amp; Analysis</strong></p>
-  <ul>
-    <li>
-      What-If Simulations: Perform what-if simulations on the fly using a
-      drag-drop interface and visualize impact on outcomes instantly &amp;
-      intuitively in tree as well as spreadsheet like format
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Scenario Comparisons: Create multiple scenarios and compare scenario
-      outcomes in a few minutes, not hours.
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Insights and Decisions: Gain valuable insights into model performance with
-      chart visuals and make quick actionable decisions using the KPI tracker.
-    </li>
-  </ul>
+<p>
+  Introducing ValQ, the modern no-code planning solution that is very
+  intuitive, interactive and for instant strategic decision making. It
+  integrates seamlessly with Microsoft Power BI. ValQ has been architected and
+  modernized to Unlock wide range of your planning and forecasting use cases
+  with ValQ's innovative visual no-code business modelling user experience.
+</p>
+<ul>
+  <li>
+    Independent and Serverless: ValQ operates without the need for databases,
+    servers, or IT support, offering a hassle-free experience.
+  </li>
+</ul>
+<ul>
+  <li>
+    Analyst-Centric Design: No coding or scripting skills are required to
+    build models in ValQ
+  </li>
+</ul>
+<ul>
+  <li>
+    Scalable Templates: Easily scale your model using templates while keeping
+    it dynamic
+  </li>
+</ul>
+<ul>
+  <li>
+    Mathematical Formulae &amp; Functions: Leverage a library of spreadsheet-like
+    mathematical formulae and functions to build complex planning models.
+  </li>
+</ul>
+<ul>
+  <li>
+    Simple Model Management: Live data preview, error validation, bulk editing
+    capabilities, advanced search, and filtering for smooth model management.
+  </li>
+</ul>
+<ul>
+  <li>Notes: Perform cell-level and node-level notes.</li>
+</ul>
+<ul>
+  <li>
+    Reporting: Generate reports in various styles with charts and export them
+    to Excel/PDF.
+  </li>
+</ul>
+<ul>
+  <li>
+    Generate reports of different styles with charts and export to excel/pdf
+  </li>
+</ul>
+<ul>
+  <li>
+    Presentations: Interactive Presentation Mode: Present your finalized
+    decisions to management with an interactive presentation mode that
+    delivers a seamless experience
+  </li>
+</ul>
+<p><strong>Simulations &amp; Analysis</strong></p>
+<ul>
+  <li>
+    What-If Simulations: Perform what-if simulations on the fly using a
+    drag-drop interface and visualize impact on outcomes instantly &amp;
+    intuitively in tree as well as spreadsheet like format
+  </li>
+</ul>
+<ul>
+  <li>
+    Scenario Comparisons: Create multiple scenarios and compare scenario
+    outcomes in a few minutes, not hours.
+  </li>
+</ul>
+<ul>
+  <li>
+    Insights and Decisions: Gain valuable insights into model performance with
+    chart visuals and make quick actionable decisions using the KPI tracker.
+  </li>
+</ul>
 
-  <p><strong>Time-Series forecasting</strong></p>
-  <ul>
-    <li>
-      Multiple Methods: Perform time-series forecasting without external
-      libraries. Choose from various methods like Linear Trend, Weighted
-      Average, Moving Average, ARIMA, Single Exponential Smoothing, Holt’s
-      Method, and Holt’s Winter Method.
-    </li>
-  </ul>
+<p><strong>Time-Series forecasting</strong></p>
+<ul>
+  <li>
+    Multiple Methods: Perform time-series forecasting without external
+    libraries. Choose from various methods like Linear Trend, Weighted
+    Average, Moving Average, ARIMA, Single Exponential Smoothing, Holt’s
+    Method, and Holt’s Winter Method.
+  </li>
+</ul>
 
-  <p><strong>Planning</strong></p>
-  <ul>
-    <li>
-      Plan Creation: Create plans based on recent performance, forecasting
-      methods, or start from scratch with a blank template for zero-based
-      budgeting
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Smart Planning Interface: Leverage an intelligent and editable table
-      interface for intuitive top-down and bottom-up planning, complete with
-      simple mathematical operations with scaling.
-    </li>
-  </ul>
-  <ul>
-    <li>
-      Efficient Updates: Automatically distribute updates across planning
-      hierarchies and time with spreading and allocation methods, including
-      weights-based, trend-based, and driver-based, along with goal seeking.
-    </li>
-  </ul>
-  <p><strong>Additional Information</strong></p>
-  <p>
-    For downloadable demos (.pbix files):
-    <a target="_blank" href="https://valq.com/demos">Demos</a>
-  </p>
-  <p>
-    For pricing:
-    <a target="_blank" href="https://valq.com/pricing/#certified">Pricing</a>
-    (per-user and team pricing available)
-  </p>
-  <p>
-    For sales enquiries: sales@valq.com For technical enquiries &amp; support:
-    <a target="_blank" href="https://valq.com/support">Support Portal</a>
-  </p>
-  <p>Reach us <a href="mailto:support@valq.com">here</a></p>
-  <p>
-    Join our online community and get all your questions answered at
-    <a target="_blank" href="https://community.valq.com">Community</a>
-  </p>
+<p><strong>Planning</strong></p>
+<ul>
+  <li>
+    Plan Creation: Create plans based on recent performance, forecasting
+    methods, or start from scratch with a blank template for zero-based
+    budgeting
+  </li>
+</ul>
+<ul>
+  <li>
+    Smart Planning Interface: Leverage an intelligent and editable table
+    interface for intuitive top-down and bottom-up planning, complete with
+    simple mathematical operations with scaling.
+  </li>
+</ul>
+<ul>
+  <li>
+    Efficient Updates: Automatically distribute updates across planning
+    hierarchies and time with spreading and allocation methods, including
+    weights-based, trend-based, and driver-based, along with goal seeking.
+  </li>
+</ul>
+<p><strong>Additional Information</strong></p>
+<p>
+  For downloadable demos (.pbix files):
+  <a target="_blank" href="https://valq.com/demos">Demos</a>
+</p>
+<p>
+  For pricing:
+  <a target="_blank" href="https://valq.com/pricing/#certified">Pricing</a>
+  (per-user and team pricing available)
+</p>
+<p>
+  For sales enquiries: sales@valq.com For technical enquiries &amp; support:
+  <a target="_blank" href="https://valq.com/support">Support Portal</a>
+</p>
+<p>Reach us <a href="mailto:support@valq.com">here</a></p>
+<p>
+  Join our online community and get all your questions answered at
+  <a target="_blank" href="https://community.valq.com">Community</a>
+</p>
 </div></div></div><div class="capabilities"><h3 class="c-heading-6 capabilitiesTitle">Visual capabilities</h3><div class="disclaimer"><div>This visual is certified by Power BI</div><div><a href="https://aka.ms/power-bi-custom-visuals-certified" class="c-hyperlink" tabindex="0"><span>Learn more about certified Power BI visuals.</span></a></div></div></div></div>
