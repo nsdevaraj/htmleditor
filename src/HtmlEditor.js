@@ -10,17 +10,34 @@ function HtmlEditor() {
   useEffect(() => {
     const fetchSamples = async () => {
       try {
-        const responses = await Promise.all([
-          fetch("./samples/valq.xml"),
-          fetch("./samples/reportingmatrix.xml"),
-          fetch("./samples/xviz.xml"),
-        ]);
+        const files = [
+          { path: "./samples/sample.xml", name: "Sample HTML" },
+          { path: "./samples/valq.xml", name: "Valq" },
+          {
+            path: "./samples/reportingmatrix.xml",
+            name: "Reporting Matrix",
+          },
+          {
+            path: "./samples/writeback.xml",
+            name: "Writeback Matrix",
+          },
+        ];
+
+        const responses = await Promise.all(
+          files.map((file) => fetch(file.path))
+        );
 
         const texts = await Promise.all(
           responses.map((response) => response.text())
         );
-        setDefaultSamples(texts);
-        setCode(texts[0]);
+
+        const samples = texts.map((text, index) => ({
+          content: text,
+          name: files[index].name,
+        }));
+
+        setDefaultSamples(samples);
+        setCode(samples[0].content);
       } catch (error) {
         console.error("Error fetching samples:", error);
       }
@@ -28,7 +45,7 @@ function HtmlEditor() {
 
     fetchSamples();
     setTimeout(() => {
-      setCode(defaultSamples[0]);
+      setCode(defaultSamples[0]?.content || "");
       document.getElementById("sample-selector").options[0].selected = true;
       const element = document.getElementsByClassName("CodeMirror-scroll");
       element[0].style.display = "none";
@@ -41,11 +58,11 @@ function HtmlEditor() {
     <div>
       <select
         id="sample-selector"
-        onChange={(e) => setCode(defaultSamples[e.target.value])}
+        onChange={(e) => setCode(defaultSamples[e.target.value].content)}
       >
         {defaultSamples.map((sample, index) => (
           <option key={index} value={index}>
-            Sample {index + 1}
+            {sample.name}
           </option>
         ))}
       </select>

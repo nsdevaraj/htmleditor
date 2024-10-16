@@ -1,63 +1,132 @@
-<div class="appDetailContent"><div><h2 class="shortDescription appsource-css-527"><div>The most comprehensive matrix for Financial, Management, Variance, Paginated &amp; IBCS reporting </div></h2><div class="description"><p>Create management &amp; financial reports in minutes using Inforiver. Inforiver Matrix offers expand/collapse capability on both row and column hierarchies, row and column grouping, reordering, and more. The product supports paginated reports, IBCS variance reports, financial statements, executive scorecards, editable forecasting &amp; budgeting templates, cell-level annotations, slider-based simulations, in-cell charts, Excel-like formulae, and formatted exports to Excel / PDF. </p> 
-<p>The innovative user experience is facilitated by an advanced toolbar menu and context-menu interactions. Inforiver is certified by both Microsoft and International Business Communication Standards (IBCS).</p> 
-<p>This edition of Inforiver works independently in Power BI and does not require any additional backend infrastructure such as a database, server, or web service.</p>
-<b>Inforiver Premium Edition Feature Highlights:</b> <br>
-<b>1.  Management &amp; financial performance reports</b> 
-<ul> 
-<li> Spreadsheet-like cell, row, and column formatting
-</li><li> Re-order and group rows and columns using click-and-drag action
-</li><li> Advanced number formatting &amp; dynamic scaling
-</li><li> Nested and/or filtering, Top N + others and more
-</li><li> One-click IBCS templates
-</li></ul> 
- 
-<b>2.  Paginated reports</b> 
-<ul> 
-<li> First-Previous-Next-Last style navigation
-</li><li> Custom page, row, column, and section breaks based on categories
-</li><li> Export to Excel with each category on a unique worksheet
-</li><li> Advanced header and footer with images, text, charts, and KPI cards
-</li>
-</ul> 
-  
-<b>3.  Input/edit data &amp; perform visual calculations </b>  
-<ul> 
-<li> Edit/update data in existing cells
-</li><li>Insert new rows &amp; columns that support data input &amp; formulae
-</li><li>Use Excel-like intuitive formulae &amp; calculations
-</li><li>70+ functions - math, logical, text, finance, statistical, and more 
-</li> 
-</ul> 
-  
-<b>4.  Planning, budgeting &amp; forecasting </b>  
-<ul> 
-<li>Create budgets using a blank template from scratch, or using performance data for current/prior periods 
-</li><li>Spread/allocate projections entered at parent level to descendants based on weights of other measures (e.g., forecasts based on prior year data) or drivers (overhead distributed by department headcount)
-</li><li>Supports both top-down and bottom-up planning and budgeting 
-</li><li>Use a graphical slider to perform what-if simulations 
-</li><li>Create rolling forecasts by blending actuals &amp; forecasts
-</li><li>Lock/unlock specific cells, rows &amp; columns for editing
-</li>  
-</ul><br>  
- 
-<b>5.  Formatted export to Excel/PDF </b>  
-<ul> 
-<li>Perform formatted export of data along with font style, background, in-cell notes, footnotes, and data bars to Excel 
-</li><li>Export charts, in-cell visualizations, and paginations to PDF including formatting and annotations  
-</li>  
-</ul><br> 
+<div class="appDetailContent"><div><h2 class="shortDescription appsource-css-527"><div>ValQ for planning, budgeting, forecasting, what-if simulations, scenario analysis and reporting</div></h2><div class="description"><div>
+  <p>
+    Introducing ValQ, the modern no-code planning solution that is very
+    intuitive, interactive and for instant strategic decision making. It
+    integrates seamlessly with Microsoft Power BI. ValQ has been architected and
+    modernized to Unlock wide range of your planning and forecasting use cases
+    with ValQ's innovative visual no-code business modelling user experience.
+  </p>
+  <ul>
+    <li>
+      Independent and Serverless: ValQ operates without the need for databases,
+      servers, or IT support, offering a hassle-free experience.
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Analyst-Centric Design: No coding or scripting skills are required to
+      build models in ValQ
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Scalable Templates: Easily scale your model using templates while keeping
+      it dynamic
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Mathematical Formulae &amp; Functions: Leverage a library of spreadsheet-like
+      mathematical formulae and functions to build complex planning models.
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Simple Model Management: Live data preview, error validation, bulk editing
+      capabilities, advanced search, and filtering for smooth model management.
+    </li>
+  </ul>
+  <ul>
+    <li>Notes: Perform cell-level and node-level notes.</li>
+  </ul>
+  <ul>
+    <li>
+      Reporting: Generate reports in various styles with charts and export them
+      to Excel/PDF.
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Generate reports of different styles with charts and export to excel/pdf
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Presentations: Interactive Presentation Mode: Present your finalized
+      decisions to management with an interactive presentation mode that
+      delivers a seamless experience
+    </li>
+  </ul>
+  <p><strong>Simulations &amp; Analysis</strong></p>
+  <ul>
+    <li>
+      What-If Simulations: Perform what-if simulations on the fly using a
+      drag-drop interface and visualize impact on outcomes instantly &amp;
+      intuitively in tree as well as spreadsheet like format
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Scenario Comparisons: Create multiple scenarios and compare scenario
+      outcomes in a few minutes, not hours.
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Insights and Decisions: Gain valuable insights into model performance with
+      chart visuals and make quick actionable decisions using the KPI tracker.
+    </li>
+  </ul>
 
-<b>6.  Other</b>  
-<ul> 
-<li>Spreadsheet-like pivot analysis with Excel-like table layouts 
-</li><li>Nest measures above categories in columns
-</li><li>50+ in-cell charts and visualizations in a single click
-</li><li>Cell, row &amp; column-level notes/footnotes &amp; annotations, report summary, roll-up notes with filter/slicer context awareness
-</li>  
-</ul><br> 
+  <p><strong>Time-Series forecasting</strong></p>
+  <ul>
+    <li>
+      Multiple Methods: Perform time-series forecasting without external
+      libraries. Choose from various methods like Linear Trend, Weighted
+      Average, Moving Average, ARIMA, Single Exponential Smoothing, Holt’s
+      Method, and Holt’s Winter Method.
+    </li>
+  </ul>
 
-<p> 
-To know more about, visit : <a href="https://inforiver.com/">Inforiver </a>
-</p>
-
-<p>If you are looking for data writeback, scheduling &amp; collaboration capabilities in addition to all the above, try out <a href="https://appsource.microsoft.com/en-us/product/power-bi-visuals/xviz.inforiver-enterprise">Inforiver Enterprise</a>.</p></div></div><div class="capabilities"><h3 class="c-heading-6 capabilitiesTitle">Visual capabilities</h3><div class="disclaimer"><div>This visual is certified by Power BI</div><div><a href="https://aka.ms/power-bi-custom-visuals-certified" class="c-hyperlink" tabindex="0"><span>Learn more about certified Power BI visuals.</span></a></div></div></div></div>
+  <p><strong>Planning</strong></p>
+  <ul>
+    <li>
+      Plan Creation: Create plans based on recent performance, forecasting
+      methods, or start from scratch with a blank template for zero-based
+      budgeting
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Smart Planning Interface: Leverage an intelligent and editable table
+      interface for intuitive top-down and bottom-up planning, complete with
+      simple mathematical operations with scaling.
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Efficient Updates: Automatically distribute updates across planning
+      hierarchies and time with spreading and allocation methods, including
+      weights-based, trend-based, and driver-based, along with goal seeking.
+    </li>
+  </ul>
+  <p><strong>Additional Information</strong></p>
+  <p>
+    For downloadable demos (.pbix files):
+    <a target="_blank" href="https://valq.com/demos">Demos</a>
+  </p>
+  <p>
+    For pricing:
+    <a target="_blank" href="https://valq.com/pricing/#certified">Pricing</a>
+    (per-user and team pricing available)
+  </p>
+  <p>
+    For sales enquiries: sales@valq.com For technical enquiries &amp; support:
+    <a target="_blank" href="https://valq.com/support">Support Portal</a>
+  </p>
+  <p>Reach us <a href="mailto:support@valq.com">here</a></p>
+  <p>
+    Join our online community and get all your questions answered at
+    <a target="_blank" href="https://community.valq.com">Community</a>
+  </p>
+</div></div></div><div class="capabilities"><h3 class="c-heading-6 capabilitiesTitle">Visual capabilities</h3><div class="disclaimer"><div>This visual is certified by Power BI</div><div><a href="https://aka.ms/power-bi-custom-visuals-certified" class="c-hyperlink" tabindex="0"><span>Learn more about certified Power BI visuals.</span></a></div></div></div></div>
