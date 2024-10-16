@@ -1,4 +1,4 @@
-<div class="appDetailContent"><div><h2 class="shortDescription appsource-css-527"><div>Enterprise-grade writeback matrix for building connected &amp; secure planning (xP&amp;A / FP&amp;A / EPM) apps </div></h2><div class="description"><p>Inforiver Writeback Matrix is the most comprehensive no-code writeback and planning solution for Power BI. It
+<div><h2 class="shortDescription appsource-css-527"><div>Enterprise-grade writeback matrix for building connected &amp; secure planning (xP&amp;A / FP&amp;A / EPM) apps </div></h2><div class="description"><p>Inforiver Writeback Matrix is the most comprehensive no-code writeback and planning solution for Power BI. It
   supports data write back to on-premise &amp; cloud destinations including SQLServer, Azure SQL, Azure Synapse, Fabric
   Lakehouse/ Warehouse, Dataverse, Snowflake, Databricks, RedShift, BigQuery, OneDrive, SharePoint, and webhook REST API
   endpoint URL destinations. </p>
@@ -66,9 +66,7 @@
   <li>Use <b>audit</b> log to track who-changed-what-and-when.</li>
 </ul>
 
-<p>Visit our <a href="https://www.inforiver.com">website</a> to learn more.</p>
-<p>Explore <a href="https://www.inforiver.com/pricing">pricing</a> options for SaaS / on-premise deployments.</p>
-<p>Register or replay <a href="https://www.inforiver.com/webinars">webinars</a> and experience live demos.</p>
-<p>Follow us on <a href="https://www.linkedin.com/company/inforiver">LinkedIn</a> and <a href="https://www.youtube.com/inforiver">Youtube</a>.</p>
-<p>Post technical questions and interact with other users in Inforiver <a href="https://community.inforiver.com">community.</a></p>
-<p><a href="https://www.inforiver.com/contact-us">Schedule a demo</a> with our sales team.</p></div></div><div class="capabilities"><h3 class="c-heading-6 capabilitiesTitle">Visual capabilities</h3><div class="disclaimer"><div>When this visual is used, it</div></div><ul class="capabilitiesList"><li class="capabilitiesListItem">Can access external services or resources</li></ul></div></div>
+<p><strong>Explore More</strong></p>
+<p>
+    Visit our <a href="https://inforiver.com/" target="_blank">website</a> to learn about our offerings and <a href="https://inforiver.com/pricing/" target="_blank">pricing</a>. Connect with us on <a href="https://www.linkedin.com/company/info-river/" target="_blank">LinkedIn</a> and <a href="https://www.youtube.com/@Inforiverbi" target="_blank">YouTube</a>. Join the conversation in our <a href="https://community.inforiver.com/" target="_blank">community</a> or <a href="https://inforiver.com/contact-us/" target="_blank">schedule a demo</a> with our sales team.
+</p>
