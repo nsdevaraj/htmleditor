@@ -12,6 +12,7 @@ function HtmlEditor() {
       try {
         const responses = await Promise.all([
           fetch("./samples/valq.xml"),
+          fetch("./samples/reportingmatrix.xml"),
           fetch("./samples/xviz.xml"),
         ]);
 
@@ -19,13 +20,21 @@ function HtmlEditor() {
           responses.map((response) => response.text())
         );
         setDefaultSamples(texts);
-        setCode(texts[0]); // Set the initial code to the first sample
+        setCode(texts[0]);
       } catch (error) {
         console.error("Error fetching samples:", error);
       }
     };
 
     fetchSamples();
+    setTimeout(() => {
+      setCode(defaultSamples[0]);
+      document.getElementById("sample-selector").options[0].selected = true;
+      const element = document.getElementsByClassName("CodeMirror-scroll");
+      element[0].style.display = "none";
+      element[0].style.height = "0px";
+      element[0].parentNode.style.height = "0px";
+    }, 1000);
   }, []);
 
   return (
