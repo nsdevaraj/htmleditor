@@ -44,7 +44,6 @@ function HtmlEditor() {
         if (samples.length > 0) {
           setCode(samples[0].content);
           const element = document.getElementsByClassName("CodeMirror-scroll");
-          element[0].style.display = "none";
           element[0].parentNode.style.height = "10px";
         }
       } catch (error) {
