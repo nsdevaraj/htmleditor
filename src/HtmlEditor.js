@@ -11,7 +11,6 @@ function HtmlEditor() {
     const fetchSamples = async () => {
       try {
         const files = [
-          { path: "./samples/sample.xml", name: "Sample HTML" },
           { path: "./samples/editable.xml", name: "Editable" },
           { path: "./samples/analytics.xml", name: "Analytics+" },
           { path: "./samples/performance.xml", name: "Performance Flow" },
@@ -43,9 +42,6 @@ function HtmlEditor() {
         setDefaultSamples(samples);
         if (samples.length > 0) {
           setCode(samples[0].content);
-          const element = document.getElementsByClassName("CodeMirror-scroll");
-          element[0].style.display = "none";
-          element[0].parentNode.style.height = "0px";
         }
       } catch (error) {
         console.error("Error fetching samples:", error);
@@ -81,7 +77,7 @@ function HtmlEditor() {
         <iframe
           title="Preview"
           srcDoc={code}
-          style={{ width: "100%", height: "300px", border: "none" }}
+          style={{ width: "100%", height: "600px", border: "none" }}
         />
       </div>
     </div>
