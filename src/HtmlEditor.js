@@ -77,7 +77,7 @@ function HtmlEditor() {
         <iframe
           title="Preview"
           srcDoc={code}
-          style={{ width: "100%", height: "300px", border: "none" }}
+          style={{ width: "100%", height: "600px", border: "none" }}
         />
       </div>
     </div>
