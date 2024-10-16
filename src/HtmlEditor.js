@@ -4,25 +4,28 @@ import "codemirror/lib/codemirror.css";
 import "codemirror/mode/xml/xml"; // For HTML syntax highlighting
 
 function HtmlEditor() {
-  const defaultSamples = [
-    "<h1>Hello World</h1>",
-    "<p>This is a paragraph.</p>",
-    "<div><span>Sample text</span></div>",
-    "<ul><li>List item 1</li><li>List item 2</li></ul>",
-    '<a href="https://example.com">Link</a>',
-  ];
-
-  const [code, setCode] = useState(defaultSamples[1]);
+  const [defaultSamples, setDefaultSamples] = useState([]);
+  const [code, setCode] = useState("");
 
   useEffect(() => {
-    setTimeout(() => {
-      setCode(defaultSamples[0]);
-      document.getElementById("sample-selector").options[0].selected = true;
-      const element = document.getElementsByClassName("CodeMirror-scroll");
-      element[0].style.display = "none";
-      element[0].style.height = "0px";
-      element[0].parentNode.style.height = "0px";
-    }, 1000);
+    const fetchSamples = async () => {
+      try {
+        const responses = await Promise.all([
+          fetch("./samples/valq.xml"),
+          fetch("./samples/xviz.xml"),
+        ]);
+
+        const texts = await Promise.all(
+          responses.map((response) => response.text())
+        );
+        setDefaultSamples(texts);
+        setCode(texts[0]); // Set the initial code to the first sample
+      } catch (error) {
+        console.error("Error fetching samples:", error);
+      }
+    };
+
+    fetchSamples();
   }, []);
 
   return (
