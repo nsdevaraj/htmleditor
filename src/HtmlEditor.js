@@ -45,7 +45,7 @@ function HtmlEditor() {
           setCode(samples[0].content);
           const element = document.getElementsByClassName("CodeMirror-scroll");
           element[0].style.display = "none";
-          element[0].parentNode.style.height = "0px";
+          element[0].parentNode.style.height = "10px";
         }
       } catch (error) {
         console.error("Error fetching samples:", error);
