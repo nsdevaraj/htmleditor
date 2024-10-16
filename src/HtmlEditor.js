@@ -6,6 +6,7 @@ import "codemirror/mode/xml/xml"; // For HTML syntax highlighting
 function HtmlEditor() {
   const [defaultSamples, setDefaultSamples] = useState([]);
   const [code, setCode] = useState("");
+  const [charCount, setCharCount] = useState(0); // New state for character count
 
   useEffect(() => {
     const fetchSamples = async () => {
@@ -42,6 +43,7 @@ function HtmlEditor() {
         setDefaultSamples(samples);
         if (samples.length > 0) {
           setCode(samples[0].content);
+          setCharCount(samples[0].content.length); // Update character count
         }
       } catch (error) {
         console.error("Error fetching samples:", error);
@@ -51,11 +53,20 @@ function HtmlEditor() {
     fetchSamples();
   }, []); // Empty dependency array to run only on mount
 
+  const handleCodeChange = (value) => {
+    setCode(value);
+    setCharCount(value.length); // Update character count
+  };
+
   return (
     <div>
       <select
         id="sample-selector"
-        onChange={(e) => setCode(defaultSamples[e.target.value].content)}
+        onChange={(e) => {
+          const selectedCode = defaultSamples[e.target.value].content;
+          setCode(selectedCode);
+          setCharCount(selectedCode.length); // Update character count on selection
+        }}
       >
         {defaultSamples.map((sample, index) => (
           <option key={index} value={index}>
@@ -70,9 +81,12 @@ function HtmlEditor() {
           lineNumbers: true,
         }}
         onBeforeChange={(editor, data, value) => {
-          setCode(value);
+          handleCodeChange(value);
         }}
       />
+      <div>
+        <p>Character Count: {charCount}, max 5000 allowed</p>
+      </div>
       <div style={{ marginTop: "20px", border: "1px solid #ccc" }}>
         <iframe
           title="Preview"
